@@ -5,7 +5,7 @@ const saveData = require('../db/diskDrive');
 expRt.get('/notes', function (req, res) {
     saveData
         .retrieveMemo()
-        .then(notes => res.json(notes))
+        .then(memos => res.json(memos))
         .catch(err => res.status(500).json(err));
 });
 
@@ -13,7 +13,7 @@ expRt.get('/notes', function (req, res) {
 expRt.post('/notes', (req, res) => {
     saveData
         .addMemo(req.body)
-        .then((note) => res.json(note))
+        .then((memo) => res.json(memo))
         .catch(err => res.status(500).json(err));
 });
 
