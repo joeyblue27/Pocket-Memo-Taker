@@ -5,6 +5,8 @@ const { v4: uuidv4 } = require("uuid");
 const readMemo = util.promisify(fs.readFile);
 const writeMemo = util.promisify(fs.writeFile);
 
+// writes to disk using unique uuid
+
 class onDisk {
   write(memo) {
     return writeMemo("db/db.json", JSON.stringify(memo));
@@ -28,6 +30,8 @@ class onDisk {
 
   addMemo(memo) {
     const { title, text } = memo;
+
+    // unique Id added
 
     const newMemo = { title, text, id: uuidv4() };
 
