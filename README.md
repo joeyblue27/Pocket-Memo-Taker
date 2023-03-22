@@ -13,8 +13,6 @@ npm i
 ## Usage
 node and express 
 
-![Image1](./images/Screenshot 2023-03-22 134303.png)
-
 * Heroku
 <a href="https://pocket-memo-taker.herokuapp.com/"
 target="_blank">Deploy!</a>
@@ -28,3 +26,5 @@ target="_blank">Deploy!</a>
 This project is licensed under the MIT license. 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![Image1](./images/Screenshot 2023-03-22 134303.png)
