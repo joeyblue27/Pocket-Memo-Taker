@@ -13,12 +13,11 @@ npm i
 ## Usage
 node and express 
 
-![Image1](./images/Screenshot 2023-03-22 134303.png)
+![Image](./images/Screenshot2023-03-22134303.png)
 
-* Heroku Deployed
-
+* Heroku
 <a href="https://pocket-memo-taker.herokuapp.com/"
-target="_blank">Launch</a>
+target="_blank">Deploy!</a>
 
 
 ## Contacts
