@@ -1,7 +1,7 @@
 # Pocket Memo Taker
 
 # Description
-an easy app that lets you save or delete memos
+an easy app that lets you save or delete notes
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
