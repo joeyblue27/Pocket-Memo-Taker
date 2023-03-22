@@ -1,7 +1,7 @@
 # Pocket Memo Taker
 
 # Description
-a simple app that lets you save or delete memos
+an easy app that lets you save or delete memos
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,8 +13,12 @@ npm i
 ## Usage
 node and express 
 
-## Contributing
-The app uses heroku 
+* Launch from Heroku
+<a href="https://pocket-memo-taker.herokuapp.com/"
+target="_blank">Deployed!</a>
+
+![Image1](./images/memotaker.png)
+
 ## Contacts
 * Email: joeyblue27@gmail.com 
 * GitHub: joeyblue27
@@ -23,3 +27,4 @@ The app uses heroku
 This project is licensed under the MIT license. 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
