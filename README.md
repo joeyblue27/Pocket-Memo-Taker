@@ -13,8 +13,14 @@ npm i
 ## Usage
 node and express 
 
-## Contributing
-The app uses heroku 
+![Image1](./images/Screenshot 2023-03-22 134303.png)
+
+* Heroku Deployed
+
+<a href="https://pocket-memo-taker.herokuapp.com/"
+target="_blank">Launch</a>
+
+
 ## Contacts
 * Email: joeyblue27@gmail.com 
 * GitHub: joeyblue27
