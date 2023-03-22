@@ -6,7 +6,7 @@ const api= require('./routes/rtApi');
 const html = require('./routes/rtHtml');
 const app = express();
 
-// create port
+// create port 3001
 
 const PORT = process.env.PORT || 3001;
 
